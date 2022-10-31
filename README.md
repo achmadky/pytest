@@ -3,9 +3,8 @@
 ## Getting started
 
 * download or clone this project into your local
-'''
-https://github.com/achmadky/pytest
-'''
+
+```https://github.com/achmadky/pytest```
 
 * Then run the following command : `pip install -r requirements.txt`
 
