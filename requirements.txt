@@ -1,2 +1,4 @@
 jsonpath==0.82
 requests==2.24.0
+pytest
+requests
