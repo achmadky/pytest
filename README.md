@@ -4,7 +4,7 @@
 
 * download or clone this project into your local
 
-```https://github.com/achmadky/pytest```
+```git clone https://github.com/achmadky/pytest```
 
 * Then run the following command : `pip install -r requirements.txt`
 
