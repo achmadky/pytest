@@ -1,4 +1,4 @@
-# API Automate testing with Python `requests` - Pytest
+# API Automate testing with Python requests - Pytest
 
 ## Getting started
 
